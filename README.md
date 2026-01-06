@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 IT Undergraduate | University in Nepal<br><br>💻 Systems Programming & Compiler Construction (Flex/Bison)<br><br>🔐 Network Security & Cryptography Projects (RSA, Hill, Playfair, Vernam)<br><br>🏆 Hackathon Participant & Best Project Award Winner<br><br>🤝 Fonepay Student Ambassador | Promoting Digital Payments<br><br>🧾 ASCOL IT Club Treasurer | Event Planning & Budget Management<br><br>🌐 Contributor to Open-Source & Community Tech Projects<br><br>📚 Passionate about Learning, Teaching & Building Impactful Software
+🎓 IT Undergraduate | University in Nepal<br><br>💻 Systems Programming & Compiler Construction<br><br>🔐 Network Security & Cryptography Projects (RSA, Hill, Playfair, Vernam)<br><br>🏆 Hackathon Participant & Best Project Award Winner<br><br>🤝 Fonepay Student Ambassador | Promoting Digital Payments<br><br>🧾 ASCOL IT Club Treasurer | Event Planning & Budget Management | Advisor <br><br>🌐 Contributor to Open-Source & Community Tech Projects<br><br>📚 Passionate about Learning, Teaching & Building Impactful Software
 
 
 ## 🌐 Socials:
